@@ -1,0 +1,73 @@
+export default [
+  {
+    id: 1,
+    postOn: "2023-8-28",
+    title: "iOS Developer",
+    company: "apple",
+    type: "Full Time",
+    experience: "Junior",
+    location: "Remote",
+    skills: ["SwiftUI", "UIKit", "coreData"],
+    jobs_link: "https://www.apple.com/careers/us/",
+  },
+
+  {
+    id: 2,
+    postOn: "2023-10-20",
+    title: "Flutter Developer",
+    company: "ABC",
+    type: "Part Time",
+    experience: "Senior",
+    location: "In-Office",
+    skills: ["Dart", "IT", "Firebase"],
+    jobs_link: "https://www.apple.com/careers/us/",
+  },
+
+  {
+    id: 3,
+    postOn: "2023-9-28",
+    title: "React Developer",
+    company: "Amamzon",
+    type: "Intern",
+    experience: "Fresher",
+    location: "Remote",
+    skills: ["HTML", "CSS", "JavaScript"],
+    jobs_link: "https://www.apple.com/careers/us/",
+  },
+
+  {
+    id: 4,
+    postOn: "2023-5-28",
+    title: "iOS Developer",
+    company: "apple",
+    type: "Full Time",
+    experience: "Junior",
+    location: "Remotei",
+    skills: ["SwiftUI", "UIKit", "coreData"],
+    jobs_link: "https://www.apple.com/careers/us/",
+  },
+
+  {
+    id: 5,
+    postOn: "2023-10-16",
+    title: "iOS Developer",
+    company: "apple",
+    type: "Full Time",
+    experience: "Junior",
+    location: "Remotei",
+    skills: ["SwiftUI", "UIKit", "coreData"],
+    jobs_link: "https://www.apple.com/careers/us/",
+  },
+
+  {
+    id: 6,
+    postOn: "2023-10-08",
+    title: "iOS Developer",
+    company: "apple",
+    type: "Full Time",
+    experience: "Junior",
+    location: "Remotei",
+    skills: ["SwiftUI", "UIKit", "coreData"],
+    jobs_link: "https://www.apple.com/careers/us/",
+  },
+];
